@@ -1,3 +1,4 @@
+import HeroSection from "./components/HeroSection/Index"
 import Navbar from "./components/Navbar/Index"
 
 
@@ -8,7 +9,7 @@ const App = () => {
    
       <Navbar/>
       <main className="mt-20"> 
-       
+       <HeroSection/>
       
       </main>
    
