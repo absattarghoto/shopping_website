@@ -1,6 +1,7 @@
 import BrandSection from "./components/BrandSection/Index"
 import CatagariSection from "./components/CatagariSection/Index"
 import ChoseSection from "./components/ChoseSection/Index"
+import Footer from "./components/Footer/Index"
 import HeroSection from "./components/HeroSection/Index"
 import Navbar from "./components/Navbar/Index"
 import ProductSection from "./components/ProductSection/Index"
@@ -18,6 +19,7 @@ const App = () => {
        <CatagariSection/>
        <ChoseSection/>
        <ProductSection/>
+       <Footer/>
       
       </main>
    
